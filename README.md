@@ -1,4 +1,4 @@
-# mod6hw
+# mod7hw
 cpsc-5330 module 7 homework<br>
 A recipe application built in the MVC structure demonstrating the use of Segue between ViewControllers and TableViews.
 
